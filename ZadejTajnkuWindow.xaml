@@ -1,0 +1,21 @@
+﻿<Window x:Class="test_obesenec.ZadejTajnkuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_obesenec"
+        mc:Ignorable="d"
+        Title="ZadejTajnkuWindow" Height="180" Width="300" WindowStartupLocation="CenterScreen"
+        Style="{DynamicResource window}">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Zadejte tajenku:" HorizontalAlignment="Center"/>
+        <TextBox x:Name="zadatTajenkuTextBox" Grid.Row="1" Height="20" KeyDown="zadatTajenkuTextBox_KeyDown" />
+        <Button x:Name="potvrdZadaniTajenkyButton" Content="OK" Grid.Row="2" Click="potvrdZadaniTajenkyButton_Click"
+                Style="{DynamicResource button}"/>
+    </Grid>
+</Window>

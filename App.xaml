@@ -1,0 +1,9 @@
+﻿<Application x:Class="test_obesenec.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:test_obesenec"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="resources\Style.xaml"/>
+    </Application.Resources>
+</Application>

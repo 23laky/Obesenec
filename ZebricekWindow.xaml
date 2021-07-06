@@ -1,0 +1,26 @@
+﻿<Window x:Class="test_obesenec.ZebricekWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_obesenec"
+        mc:Ignorable="d"
+        Title="ZebricekWindow" Height="350" Width="300" WindowStartupLocation="CenterScreen"
+        Style="{StaticResource window}" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Žebříček slávy" FontSize="22" Style="{StaticResource label}"/>
+        <DataGrid Name="zebricekDataGrid" Grid.Row="1" ItemsSource="{Binding Zebrik}" 
+                  AutoGenerateColumns="False" GridLinesVisibility="Horizontal" MinRowHeight="20">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Skóre" Binding="{Binding Item2}" Width="*" CanUserSort="False"/>
+                <DataGridTextColumn Header="Jméno" Binding="{Binding Item1}" Width="*" CanUserSort="False"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Row="2" Name="OKButton" Content="OK!" Style="{StaticResource button}" Click="OKButton_Click"/>
+    </Grid>
+</Window>

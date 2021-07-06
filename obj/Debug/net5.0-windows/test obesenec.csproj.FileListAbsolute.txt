@@ -1,0 +1,45 @@
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.exe
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.deps.json
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.runtimeconfig.json
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.runtimeconfig.dev.json
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.dll
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\ref\test obesenec.dll
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\test obesenec.pdb
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec_MarkupCompile.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec_MarkupCompile.lref
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.g.resources
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.AssemblyInfoInputs.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.AssemblyInfo.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.dll
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ref\test obesenec.dll
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.pdb
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.genruntimeconfig.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZadejTajnkuWindow.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZadejTajnkuWindow.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZebricekWindow.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZebricekWindow.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test_obesenec.resources.Resource.resources
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.csproj.GenerateResource.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\App.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\resources\Style.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZadejPrezdivkuWindow.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\ZadejPrezdivkuWindow.baml
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec.csproj.AssemblyReference.cache
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\1.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\2.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\3.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\obj\Debug\net5.0-windows\test obesenec_Content.g.cs
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\iconfinder_Hangman.ico
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\10.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\11.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\4.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\5.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\6.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\7.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\8.png
+C:\Users\Lukáš\source\repos\test obesenec\test obesenec\bin\Debug\net5.0-windows\resources\images\9.png
