@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:test_obesenec"
         mc:Ignorable="d"
-        Title="ZadejTajnkuWindow" Height="180" Width="300" WindowStartupLocation="CenterScreen"
+        Title="Zadejte tajenku" Height="180" Width="300" WindowStartupLocation="CenterScreen"
         Style="{DynamicResource window}">
     <Grid Margin="10">
         <Grid.RowDefinitions>

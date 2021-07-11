@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:test_obesenec"
         mc:Ignorable="d"
-        Title="ZebricekWindow" Height="350" Width="300" WindowStartupLocation="CenterScreen"
+        Title="Žebříček" Height="350" Width="300" WindowStartupLocation="CenterScreen"
         Style="{StaticResource window}" KeyDown="Window_KeyDown">
     <Grid>
         <Grid.RowDefinitions>
